@@ -11,10 +11,10 @@ import java.io.File;
 public class LoginReader {
 
     // DEPLOYMENT login file path
-    //private static File loginFile = new File("xml/login.xml");
+    private static File loginFile = new File("xml/login.xml");
 
     // DEVELOPMENT login file path
-    private static File loginFile = new File("src/main/resources/xml/login.xml");
+    //private static File loginFile = new File("src/main/resources/xml/login.xml");
 
     public static boolean isFirstAccess() {
 

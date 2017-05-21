@@ -266,7 +266,7 @@ public class MainController {
             // Save the file path to the registry.
             primaryStage.setTitle(AccountsDataFileUtil.setFile(file));
 
-        } catch (Exception e) { // catches ANY exception
+        } catch (Exception e) {
             Dialogs.create()
                     .title("Error")
                     .masthead("No se puede leer el archivo:\n" + file.getPath())

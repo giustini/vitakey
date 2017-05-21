@@ -45,7 +45,7 @@
                 <artifactId>javafx-maven-plugin</artifactId>
                 <version>8.5.0</version>
                 <configuration>
-                    <mainClass>com.giustini.vitakey.MainController</mainClass>
+                    <mainClass>com.giustini.vitakey.Vitakey</mainClass>
                     <additionalAppResources>src/main/resources</additionalAppResources>
                     <verbose>true</verbose>
                     <vendor>GiustiniApps</vendor>
