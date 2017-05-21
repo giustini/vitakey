@@ -1,6 +1,6 @@
 # Vitakey
 ## Description
-**Vitakey** is a simple password manager JavaFX application. With Vitakey users can save safely archive and classify their passwords in one or several local files.
+**Vitakey** is a simple password manager JavaFX application. With Vitakey users can safely archive and classify their passwords in one or several local files.
 
 ![](https://raw.githubusercontent.com/giustini/giustini.github.io/master/resources/vitakey/img/05.png)
 
