@@ -14,6 +14,8 @@ In the following section are the executable files for Vitakey's automatic instal
 ## Downloads
 
  - [**Vitakey-1.0_x86 (Español)**](https://github.com/giustini/giustini.github.io/blob/master/resources/vitakey/installers/Vitakey-1.0_x86.exe?raw=true)
+ - [**Vitakey-1.0_x64 (Español)**](https://github.com/giustini/giustini.github.io/blob/master/resources/vitakey/installers/Vitakey-1.0_x64.exe?raw=true)
+
 
 ## Getting started
 When the application is installed you must to sing up. Enter your username and password and press the **Ok** button.
